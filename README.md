@@ -110,8 +110,8 @@
 ---
 
 ## 📫 Let’s Connect
-📧 **rijjahaneef77@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+📧 **rijjahakkim@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/rijja-h)  
 💻 [GitHub](https://github.com/Rijja-explore)
 
 ---
