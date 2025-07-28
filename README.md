@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&logoColor=white"/>
 </div>
 
 ### 🌐 Web Development
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-jira-F5792A?style=flat&logo=jira&logoColor=white"/>
 </div>
 
 ---
