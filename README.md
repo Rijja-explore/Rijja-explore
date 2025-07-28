@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rijja H – Exploring the Possibilities of Code
 
-🎓 Final-year B.Tech student passionate about building impactful solutions at the intersection of **AI, Web Technologies, and Cybersecurity**.
+🎓 Pre Final-year B.Tech student passionate about building impactful solutions at the intersection of **AI, Web Technologies, and Cybersecurity**.
 
 🚀 I thrive on transforming ideas into real-world applications that are scalable, intelligent, and meaningful—whether it's through modern web apps, data-driven AI models, or secure digital platforms.
 
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c&logoColor=white"/>
 </div>
 
 ### 🌐 Web Development
@@ -61,12 +61,9 @@
 <div align="left">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white"/>
 </div>
 
 ---
@@ -78,15 +75,6 @@
 - FastAPI backend, PDF reporting, and smart analytics
 - Cybersecurity best practices with JWT, HTTPS, logging
 
-### 🎓 SkillPath AI – Personalized Learning Mentor
-- React + Firebase full-stack web app
-- AI-generated roadmaps (OpenAI), voice input, doubt solver
-- Dashboard, PDF export, learning analytics
-
-### 🦷 AR/VR 3D Dental Trainer
-- Unity + Blender models with touch interactions
-- Meta Quest deployment
-- Text-to-speech narration of tooth features
 
 ### 📅 EventSphere – Smart Event Management
 - Role-based login, DFS-based clash detection
