@@ -93,8 +93,7 @@
 - 🌐 Full-Stack Innovation  
 - 🔐 Ethical Hacking & Cybersecurity  
 - 📊 Algorithm Optimization  
-- ⛓️ Blockchain & Smart Contracts  
-
+  
 ---
 
 ## 📫 Let’s Connect
