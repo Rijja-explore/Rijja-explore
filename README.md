@@ -3,54 +3,64 @@
 <!--     AI | Cybersecurity | Full-Stack | Innovator      -->
 <!-- ===================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Rijja%20H%20🚀&fontSize=70&fontColor=fff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00F7FF,100:00FF88&height=220&section=header&text=Rijja%20H%20🚀&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=30" />
 
 <div align="center">
 
-# 👋 Hey there! I'm **Rijja H**
+# 👋 **RIJJA H**
 
-### 🤖 AI & Cybersecurity Builder | 🌐 Full-Stack Developer | 🏆 Hackathon Champion
+### 🤖 AI & Cybersecurity Architect | 🌐 Full-Stack Engineer | 🏆 Hackathon Champion
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🔬+Building+Intelligent+Systems;🛡️+Securing+the+Digital+World;⚡+Scaling+Solutions+to+Million+Users;🚀+Turning+Ideas+into+Impact;🎯+Solving+Real-World+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=🔬+Building+Intelligent+Systems;🛡️+Architecting+Secure+Solutions;⚡+Scaling+Backend+to+Million+Users;🚀+AI%2FCybersecurity+Innovator;💡+Hackathon+Winners+Mindset" />
 
 <br>
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rijja-explore-github&label=PROFILE+VIEWS&color=0:00F7FF,100:6A5ACD&style=for-the-badge)](https://github.com/Rijja-explore-github)
-[![Followers](https://img.shields.io/github/followers/Rijja-explore-github?style=for-the-badge&logo=github&color=0:00F7FF,100:6A5ACD&label=FOLLOWERS)](https://github.com/Rijja-explore-github)
-[![Total Stars](https://img.shields.io/github/stars/Rijja-explore-github?style=for-the-badge&logo=github&color=0:00F7FF,100:6A5ACD&label=STARS)](https://github.com/Rijja-explore-github)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/Rijja-explore-github?style=for-the-badge&logo=github&color=00F7FF&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/Rijja-explore-github?tab=followers)
+&nbsp;
+[![Total Stars](https://img.shields.io/github/stars/Rijja-explore-github?style=for-the-badge&logo=github&color=00F7FF&labelColor=1a1a2e&label=STARS)](https://github.com/Rijja-explore-github?tab=stars)
 
 </div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90a8-b742f6a47e72.gif" width="900">
 
 ---
 
 ## 🌟 Who Am I?
 
-<img align="right" alt="Coding Animation" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding Animation" width="340" src="https://media.giphy.com/media/SWoSkN6DxTszqKO6qv/giphy.gif"/>
 
-**🚀 Passionate Builder** of intelligent systems that solve real-world problems at scale.
+**I'm a problem-solver who codes for impact.** With a proven track record in AI, cybersecurity, and full-stack development, I build intelligent systems that scale.
 
-**💡 Proven Track Record:**
-- 🏆 Multiple hackathon awards and top-40 selections
-- 🤖 AI & ML solutions deployed in production
-- 🛡️ Cybersecurity architect | Team leader | Fast learner
-- 🌐 Full-stack developer | System designer | DevOps enthusiast
+### 🎯 **Quick Highlights:**
 
-**🎯 Core Expertise:**
-- 🤖 **AI/ML:** NLP, Computer Vision, Predictive Analytics, LLM Integration
-- 🔐 **Cybersecurity:** Threat Analysis, Secure Systems, Vulnerability Assessment
-- 🌐 **Full-Stack:** React, FastAPI, Node.js, Firebase, Database Design
-- ⛓️ **Emerging Tech:** Blockchain, FinTech, Cloud Architecture, DevOps
-- ⚙️ **Systems:** Scalable Architectures, Microservices, Real-time Systems
+✨ **Hackathon Champion**
+- 🥇 Track Winner - Texus NXTGEN FinTrust Hackathon
+- 🥉 3rd Place - Visa 24-Hour AI Hackathon (IIT Madras)
+- 🏅 4th Place - Citi Blockchain Hackathon 2025 (Grand Finalist)
+- 🥈 2nd Place - CIVHACK 360
 
-**🔥 What Drives Me:**
-> *"I build technology that matters. I code for impact, not just features."*
+💼 **Leadership & Experience**
+- 🎖️ IEEE Design Team Lead
+- 🚀 SubHead – SecOps Cybersecurity (AIT)
+- 👥 Proven team builder and mentor
 
-- Participating in hackathons and building MVPs in 24-48 hours
-- Mentoring teams and leading technical initiatives
-- Learning cutting-edge technologies and applying them immediately
-- Creating solutions that 10x user experience
+🔥 **Core Competencies**
+- 🤖 AI/ML Systems & LLM Integration
+- 🛡️ Cybersecurity Architecture & Threat Analysis
+- 🌐 Full-Stack Development (React, FastAPI, Node.js)
+- ⛓️ Blockchain & FinTech Solutions
+- ⚙️ System Design & Scalable Architectures
+
+### 📌 **What Drives Me:**
+> *"I build technology that solves real problems. Every line of code should move the needle."*
+
+🔥 **Fast learner | Hackathon builder | System architect | Team leader**
 
 <br clear="right"/>
 
@@ -60,11 +70,13 @@
 
 <div align="center">
 
-### Products That Matter | Systems That Scale | Innovation That Impacts
+## Products That Matter | Systems That Scale | Innovation That Impacts
 
 </div>
 
-<table align="center">
+<br>
+
+<table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
       <h3>🤖 AI Solutions</h3>
@@ -72,7 +84,8 @@
         ✨ Intelligent Applications<br>
         🔮 Predictive Models<br>
         🎯 Smart Automation<br>
-        🧠 ML Pipelines
+        🧠 ML Pipelines<br>
+        💬 LLM Integration
       </p>
     </td>
     <td align="center" width="33%">
@@ -81,7 +94,8 @@
         🔐 Secure Architecture<br>
         🚨 Threat Detection<br>
         🔍 Vulnerability Analysis<br>
-        ⚔️ Security Hardening
+        ⚔️ Security Hardening<br>
+        🛡️ Zero-Trust Models
       </p>
     </td>
     <td align="center" width="33%">
@@ -90,11 +104,14 @@
         ⚡ Scalable Web Apps<br>
         📊 Real-Time Dashboards<br>
         🔄 Microservices<br>
-        💾 Backend Systems
+        💾 Backend Systems<br>
+        🚀 Cloud Native Apps
       </p>
     </td>
   </tr>
 </table>
+
+<br>
 
 ---
 
@@ -102,41 +119,51 @@
 
 ## 👨‍💻 Programming Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,sql,cpp,c&perline=9" />
-</p>
+<div align="center">
 
-### ✨ **Proficiency:** Python (Expert) | JavaScript (Advanced) | Java (Intermediate) | C/C++ (Intermediate)
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,sql,cpp,c&perline=9&theme=dark" />
 
----
+</div>
 
-## 🚀 Frameworks & Libraries
+<br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,flask,firebase,postgresql,mongodb,docker,kubernetes&perline=9" />
-</p>
+## 🚀 Frameworks & Backend Technologies
 
-### ✨ **Stack:** React | FastAPI | Node.js | Firebase | PostgreSQL | MongoDB | Docker | Kubernetes
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,django,firebase,postgresql,mongodb,docker&perline=9&theme=dark" />
 
-## ⚙️ Tools & Platforms
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,postman,figma,aws,gcp,vercel&perline=9" />
-</p>
+<br>
 
-### ✨ **Daily Tools:** VS Code | Git | GitHub | Linux | AWS | GCP | CI/CD | Postman | Figma
+## ⚙️ DevOps & Cloud Platforms
 
----
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,gcp,github,git,ci,jenkins&perline=9&theme=dark" />
+
+</div>
+
+<br>
 
 ## 🧠 AI/ML & Data Science
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,jupyter,opencv&perline=6" />
-</p>
+<div align="center">
 
-### ✨ **ML Stack:** TensorFlow | PyTorch | Scikit-Learn | Pandas | OpenCV | Jupyter
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter,opencv&perline=7&theme=dark" />
+
+</div>
+
+<br>
+
+## 🔧 Tools & IDEs
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github,linux,vim&perline=7&theme=dark" />
+
+</div>
 
 ---
 
@@ -144,118 +171,146 @@
 
 <div align="center">
 
-### 🥇 Track Winner
-**Texus NXTGEN FinTrust Hackathon** — FinTech Innovation Track
+### 🥇 **Track Winner**
+**Texus NXTGEN FinTrust Hackathon** — FinTech Innovation
 
-### 🥉 3rd Place - IIT Madras
-**Visa 24-Hour AI Hackathon** — AI/ML Excellence
+### 🥉 **3rd Place** 
+**Visa 24-Hour AI Hackathon** — IIT Madras | AI Excellence
 
-### 🏅 4th Place (Grand Finalist)
+### 🏅 **4th Place (Grand Finalist)**
 **Citi Blockchain Hackathon 2025** — Blockchain & FinTech
 
-### 🥈 2nd Place
+### 🥈 **2nd Place**
 **CIVHACK 360** — Civic Tech Innovation
 
-### 🔥 Top 40 Teams (Out of 500+)
+### 🔥 **Top 40 Teams** 
 **THREX 48-Hour Hackathon** — Advanced Problem Solving
 
-### 🎖️ IEEE Design Team Lead
-**Leading technical direction for hardware-software integration projects**
+### 🎖️ **IEEE Design Team Lead**
+Leading technical direction for hardware-software integration projects
 
-### 🚀 SubHead – SecOps Cybersecurity (AIT)
-**Cybersecurity Leadership & Team Development**
+### 🚀 **SubHead – SecOps Cybersecurity (AIT)**
+Cybersecurity leadership, team development, and threat analysis
+
+</div>
+
+<br>
+
+<div align="center">
+
+**💡 Proven Ability to:**
+- ✅ Build MVPs in 24-48 hours
+- ✅ Lead teams to victory
+- ✅ Scale from idea to product
+- ✅ Innovate under pressure
+- ✅ Deliver measurable impact
 
 </div>
 
 ---
 
-## 📊 Showcase
-
-> **💡 Proven Ability to:**
-> - 🎯 Build MVPs in 24-48 hours
-> - 🏆 Lead teams to victory
-> - 🚀 Scale from idea to product
-> - 💡 Innovate under pressure
-> - 🔥 Deliver impact
-
----
-
-# 🌱 Currently Exploring & Learning
-
-```yaml
-🔬 Areas of Focus:
-  AI/LLMs:
-    - Large Language Models & RAG Systems
-    - Generative AI Applications
-    - AI-Powered Automation
-    
-  Cybersecurity:
-    - Advanced Threat Detection
-    - Zero-Trust Architecture
-    - Cloud Security
-    
-  System Design:
-    - High-Scale Architectures
-    - Distributed Systems
-    - Real-time Processing
-    
-  Backend Development:
-    - Microservices Patterns
-    - Event-Driven Architecture
-    - Database Optimization
-    
-  Emerging Tech:
-    - Blockchain & Web3
-    - FinTech Solutions
-    - Cloud & DevOps
-    
-  Community:
-    - Open Source Contributions
-    - Technical Mentoring
-    - Building Developer Communities
-```
-
----
-
-# 📊 GitHub Analytics & Statistics
+# 🌱 Currently Learning & Exploring
 
 <div align="center">
 
-### 🔥 GitHub Performance
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rijja-explore-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&text_color=00F7FF&title_color=00F7FF&icon_color=6A5ACD)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rijja-explore-github&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=6A5ACD&fire=FF6B6B&currStreakNum=00F7FF)
+## Active Learning Focus
 
 </div>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🔬 Artificial Intelligence</h3>
+      <ul>
+        <li>Large Language Models & RAG</li>
+        <li>Generative AI Applications</li>
+        <li>AI-Powered Automation</li>
+        <li>Computer Vision & NLP</li>
+        <li>Retrieval Systems</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛡️ Cybersecurity</h3>
+      <ul>
+        <li>Advanced Threat Detection</li>
+        <li>Zero-Trust Architecture</li>
+        <li>Cloud Security</li>
+        <li>Incident Response</li>
+        <li>Security Engineering</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ System Design</h3>
+      <ul>
+        <li>High-Scale Architectures</li>
+        <li>Distributed Systems</li>
+        <li>Real-time Processing</li>
+        <li>Database Optimization</li>
+        <li>Load Balancing</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🌐 Backend & Cloud</h3>
+      <ul>
+        <li>Microservices Patterns</li>
+        <li>Event-Driven Architecture</li>
+        <li>Container Orchestration</li>
+        <li>Cloud-Native Development</li>
+        <li>DevOps Best Practices</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 💻 Most Used Technologies
+# 📊 GitHub Statistics & Analytics
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rijja-explore-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=00F7FF&title_color=00F7FF)
+### 🔥 Performance Metrics
+
+<a href="https://github.com/Rijja-explore-github">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Rijja-explore-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=e6edf3&title_color=00f7ff&icon_color=79c0ff&border_radius=10" />
+</a>
+
+<a href="https://github.com/Rijja-explore-github">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Rijja-explore-github&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=79c0ff&fire=ff6b6b&currStreakNum=e6edf3&dates=e6edf3" />
+</a>
 
 </div>
 
----
-
-## 🏅 GitHub Trophies & Recognition
+<br>
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rijja-explore-github&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-frame=true)
+### 💻 Language Distribution
+
+<a href="https://github.com/Rijja-explore-github">
+  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijja-explore-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=00f7ff&border_radius=10" />
+</a>
 
 </div>
 
----
-
-## 📈 Contribution Graph
+<br>
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rijja-explore-github&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=00F7FF&color=6A5ACD)
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rijja-explore-github&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rijja-explore-github&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=79c0ff&line=00f7ff" />
 
 </div>
 
@@ -265,57 +320,128 @@
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rijja-h/)](https://www.linkedin.com/in/rijja-h/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rijjahakkim@gmail.com)](mailto:rijjahakkim@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Rijja-explore-github)](https://github.com/Rijja-explore-github)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Rijja-explore-github)
+<a href="https://www.linkedin.com/in/rijja-h/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rijja-h/" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:rijjahakkim@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rijjahakkim@gmail.com" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/Rijja-explore-github" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Rijja-explore-github" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rijja-h/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
 
-**Let's build something amazing together! 🚀**
+<br><br>
 
-</div>
-
----
-
-# 💡 My Philosophy
-
-<div align="center">
-
-> ### *"Code is not just about writing instructions—it's about solving problems and creating impact."*
-
-✨ **I believe in:**
-- 🎯 **Excellence** in every line of code
-- 🤝 **Collaboration** over competition  
-- 📚 **Continuous Learning** and growth
-- 🚀 **Shipping Fast** and iterating
-- 💡 **Innovation** with purpose
-- 🔥 **Quality** over quantity
+### 📲 **Let's Connect:**
+💼 **LinkedIn:** [linkedin.com/in/rijja-h](https://www.linkedin.com/in/rijja-h/)  
+📧 **Email:** [rijjahakkim@gmail.com](mailto:rijjahakkim@gmail.com)  
+🐙 **GitHub:** [github.com/Rijja-explore-github](https://github.com/Rijja-explore-github)
 
 </div>
 
 ---
 
-# 🎯 Open To
+# 🎯 Featured Projects
 
 <div align="center">
 
-| 🤝 Collaborations | 💼 Opportunities | 🚀 Projects | 📚 Mentoring |
-|------------------|-----------------|-----------|-------------|
-| Open Source | Full-Time | AI/ML | Junior Devs |
-| Startups | Contract | Cybersecurity | Teams |
-| Research | Freelance | FinTech | Communities |
+Check out my best work on GitHub:
+
+| 🌟 [EcoFi](https://github.com/Rijja-explore-github) | 🌟 [HeritageAI](https://github.com/Rijja-explore-github) | 🌟 [SkillPath AI](https://github.com/Rijja-explore-github) |
+|---|---|---|
+| AI Financial App | Heritage Preservation | Learning Platform |
+
+| 🌟 [NetGenius](https://github.com/Rijja-explore-github) | 🌟 [Weather Forecasting AI](https://github.com/Rijja-explore-github) | 🌟 [Cybersecurity Suite](https://github.com/Rijja-explore-github) |
+|---|---|---|
+| Network Analysis | ML Prediction | Security Tools |
+
+> 📌 **Pro Tip:** Star ⭐ the repos you like to boost their visibility!
 
 </div>
 
 ---
 
+# 💡 My Core Philosophy
+
 <div align="center">
 
-### ⭐ If you find my work interesting, consider giving a star! ⭐
+> ## *"Excellence is not just a goal—it's a commitment to every single line of code."*
 
-**Let's connect and build the future together!**
+### I Believe In:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer&text=Thank+You+for+Visiting!&fontSize=40&fontColor=fff&animation=twinkling"/>
+| ✨ | 🤝 | 📚 |
+|---|---|---|
+| **Excellence** in every deliverable | **Collaboration** over competition | **Continuous Learning** mindset |
+| Writing clean, maintainable code | Building strong teams | Staying ahead of tech trends |
 
-### Made with ❤️ by Rijja H | Updated May 2026
+| 🚀 | 💡 | 🔥 |
+|---|---|---|
+| **Shipping Fast** & iterating | **Innovation** with purpose | **Quality** over quantity |
+| Move fast but don't break things | Solve real problems | Focus on impact |
+
+</div>
+
+---
+
+# 🎯 Open To Opportunities
+
+<div align="center">
+
+### What I'm Looking For:
+
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🤝 Collaborations</h3>
+      <p>Open Source<br>Startups<br>Research</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>💼 Work</h3>
+      <p>Full-Time<br>Freelance<br>Contract</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🚀 Projects</h3>
+      <p>AI/ML<br>Cybersecurity<br>FinTech</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>📚 Giving Back</h3>
+      <p>Mentoring<br>Teaching<br>Communities</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+<br><br>
+
+### ⭐ If you find my work interesting, please star this repository! ⭐
+
+**Building the future, one line of code at a time.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00F7FF,100:00FF88&height=150&section=footer&text=Thanks+for+Visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50"/>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90a8-b742f6a47e72.gif" width="900">
+
+<br>
+
+**Made with ❤️ by Rijja H**  
+*Updated: May 2026*  
+*Inspired by AI, Secured by Code, Powered by Innovation*
+
+<br>
+
+---
 
 </div>
