@@ -1,173 +1,89 @@
-<!-- ===================================================== -->
-<!--                  🚀 RIJJA H PROFILE                   -->
-<!-- ===================================================== -->
+<!-- ========================= -->
+<!-- 📈 CONTRIBUTION ACTIVITY -->
+<!-- ========================= -->
 
-<div align="center">
+<h2 align="center">📈 Contribution Activity</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:06B6D4,100:10B981&text=Rijja%20H&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rijja-explore&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
 
-# 👋 Hey, I'm Rijja H
+<br/>
 
-### AI Builder • Cybersecurity Enthusiast • Full-Stack Developer • Hackathon Enthusiast
+<!-- ========================= -->
+<!-- 📊 GITHUB ANALYTICS -->
+<!-- ========================= -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&duration=3000&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Systems;Cybersecurity+%26+Secure+Architectures;Full-Stack+Developer;Hackathon+Builder;Always+Learning+%F0%9F%9A%80"/>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<br>
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Rijja-explore&label=Profile+Views&style=for-the-badge&color=0891B2"/>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Rijja-explore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+  />
 
-<img src="https://img.shields.io/github/followers/Rijja-explore?style=for-the-badge&logo=github&color=0891B2"/>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijja-explore&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+  />
 
-<img src="https://img.shields.io/github/stars/Rijja-explore?style=for-the-badge&logo=github&color=0891B2"/>
+</p>
 
-</div>
+<br/>
 
----
+<!-- ========================= -->
+<!-- 🔥 GITHUB STREAK -->
+<!-- ========================= -->
 
-## About Me
+<h2 align="center">🔥 Contribution Streak</h2>
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rijja-explore&theme=tokyonight&hide_border=true" />
+</p>
 
-I’m passionate about building **AI-powered**, **cybersecurity-focused**, and **scalable software systems** that solve real-world problems.
+<br/>
 
-My interests lie at the intersection of **intelligent systems, secure architectures, full-stack development, and scalable engineering**. I enjoy transforming ideas into impactful products, rapidly building MVPs during hackathons, and continuously pushing myself to learn emerging technologies.
+<!-- ========================= -->
+<!-- 🏆 GITHUB TROPHIES -->
+<!-- ========================= -->
 
-Over time, I’ve worked on solutions spanning **AI applications, cybersecurity systems, blockchain platforms, automation tools, and full-stack products**, with a focus on creating meaningful impact through technology.
+<h2 align="center">🏆 GitHub Achievements</h2>
 
-### Areas I Enjoy Building In
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rijja-explore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+</p>
 
-🧠 Artificial Intelligence & Intelligent Systems  
-🔐 Cybersecurity & Secure Architectures  
-🌐 Full-Stack Development  
-⚡ Backend Systems & APIs  
-⛓️ Blockchain & FinTech Solutions
+<br/>
 
-> **Build → Learn → Iterate → Ship**
+<!-- ========================= -->
+<!-- 🐍 CONTRIBUTION SNAKE -->
+<!-- ========================= -->
 
-<br clear="right"/>
+<h2 align="center">🐍 Contribution Snake</h2>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rijja-explore/Rijja-explore/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
-## 🏆 Hackathons & Leadership
+<br/>
 
-I actively participate in hackathons where I enjoy solving real-world challenges under pressure, collaborating with teams, and building fast-moving MVPs.
+<!-- ========================= -->
+<!-- 👀 PROFILE VIEWS -->
+<!-- ========================= -->
 
-Some memorable milestones include:
+<h2 align="center">👀 Profile Visitors</h2>
 
-- 🥇 **Track Winner** — Texus NXTGEN FinTrust Hackathon  
-- 🥉 **3rd Place (IIT Madras)** — Visa 24-Hour AI Hackathon  
-- 🏅 **4th Place (Grand Finalist)** — Citi Blockchain Hackathon 2025  
-- 🥈 **2nd Place** — CIVHACK 360  
-- 🔥 **Top 40 Teams** — THREX 48-Hour Hackathon
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rijja-explore&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
-Beyond hackathons, I actively contribute to technical communities through leadership and collaborative initiatives.
+<br/>
 
-🚀 **IEEE SB SSN Vice Chair**  
-🔐 **SubHead – SecOps Cybersecurity (AIT)**  
-🌍 **Millennium Fellowship (Class of 2024)**
+<!-- ========================= -->
+<!-- 💡 RANDOM DEV QUOTE -->
+<!-- ========================= -->
 
----
+<h2 align="center">💡 Developer Quote</h2>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql,c&theme=dark"/>
-
-### Frameworks & Technologies
-
-<img src="https://skillicons.dev/icons?i=react,firebase,fastapi,docker,git,github,unity&theme=dark"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux,figma&theme=dark"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rijja-explore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Rijja-explore&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijja-explore&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rijja-explore&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🚀 What You'll Find Here
-
-My repositories mainly focus on:
-
-- **AI-powered applications**
-- **Cybersecurity & secure systems**
-- **Full-stack platforms**
-- **Automation & backend systems**
-- **Hackathon MVPs**
-- **Experimental builds & problem-solving projects**
-
-🔍 Feel free to explore my repositories to see what I’m currently building and experimenting with.
-
----
-
-## 🌱 Currently Exploring
-
-```yaml
-Artificial Intelligence
-Cybersecurity
-System Design
-Scalable Backend Development
-Cloud Technologies
-Open Source Collaboration
-```
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rijja-h/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rijjahakkim@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Rijja-explore">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Build things that matter."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,50:06B6D4,100:10B981&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
