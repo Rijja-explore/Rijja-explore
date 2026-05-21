@@ -156,7 +156,6 @@ src="https://komarev.com/ghpvc/?username=Rijja-explore&label=Profile%20Views&col
 <!-- ===================================================== -->
 
 <h2 align="center">👀 Profile Visitors</h2>
-
 <p align="center">
 <img
 src="https://komarev.com/ghpvc/?username=Rijja-explore&label=Profile%20Views&color=blueviolet&style=for-the-badge"
@@ -165,17 +164,6 @@ src="https://komarev.com/ghpvc/?username=Rijja-explore&label=Profile%20Views&col
 
 <br>
 
-<!-- ===================================================== -->
-<!-- 💡 DEV QUOTE -->
-<!-- ===================================================== -->
-
-<h2 align="center">💡 Developer Quote</h2>
-
-<p align="center">
-<img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-/>
-</p>
 ---
 
 ## 🚀 What You'll Find Here
