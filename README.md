@@ -96,15 +96,6 @@ src="https://streak-stats.demolab.com?user=Rijja-explore&theme=tokyonight&hide_b
 </p>
 <br>
 
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-<img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Rijja-explore&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f778ba&area=true&hide_border=true"
-/>
-</p>
-
 
 <!-- ===================================================== -->
 <!-- 👀 PROFILE VISITORS -->
@@ -116,7 +107,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Rijja-explor
 src="https://komarev.com/ghpvc/?username=Rijja-explore&label=Profile%20Views&color=blueviolet&style=for-the-badge"
 />
 </p>
-
 <br>
 
 ---
