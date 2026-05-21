@@ -1,20 +1,20 @@
 <!-- ===================================================== -->
-<!--               🚀 RIJJA H GITHUB PROFILE               -->
+<!--                  🚀 RIJJA H PROFILE                   -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00F7FF,100:00FF88&height=220&section=header&text=Rijja%20H&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00F7FF,100:00FF88&height=220&section=header&text=Rijja%20H%20🚀&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 # 👋 Hey, I'm Rijja H
 
 ### 🚀 AI Builder | 🔐 Cybersecurity Enthusiast | 🌐 Full-Stack Developer | 🏆 Hackathon Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Systems;Cybersecurity+%26+Secure+Architectures;Full-Stack+Developer;Hackathon+Builder+%26+Problem+Solver;Always+Learning+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Systems;Cybersecurity+%26+Secure+Architectures;Full-Stack+Developer;Hackathon+Builder+%26+Problem+Solver;Always+Learning+🚀" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Rijja-explore-github&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Rijja-explore-github&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Rijja-explore-github?style=for-the-badge&logo=github&color=blueviolet"/>
 
@@ -30,9 +30,9 @@
 
 🚀 Passionate about building **AI-powered, cybersecurity-focused, and scalable software systems**.
 
-💡 I enjoy solving **real-world problems**, participating in **hackathons**, and building impactful tech solutions.
+💡 I enjoy solving **real-world problems**, participating in **hackathons**, and building impactful technology.
 
-### 🎯 Areas of Interest
+🎯 **Areas of Interest**
 
 - 🤖 Artificial Intelligence & Intelligent Systems  
 - 🔐 Cybersecurity & Secure Architectures  
@@ -42,7 +42,7 @@
 
 🏆 Strong believer in:
 
-**Building → Learning → Iterating → Shipping**
+> **Build → Learn → Iterate → Ship**
 
 <br clear="right"/>
 
@@ -59,7 +59,7 @@ Smart automation, intelligent applications, predictive systems, and AI-powered p
 Secure systems, monitoring, automation, and practical security solutions.
 
 ### 🌐 Full-Stack Development
-Scalable web applications, dashboards, APIs, and real-time systems.
+Scalable web applications, APIs, dashboards, and real-time systems.
 
 ### ⚡ Hackathon MVPs
 Fast execution, innovation under pressure, and real-world problem-solving.
@@ -162,3 +162,44 @@ System Design
 Scalable Backend Development
 Cloud & DevOps
 Open Source Collaboration
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rijja-h/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rijjahakkim@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rijja-explore-github">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Motto
+
+<div align="center">
+
+### **"Build things that matter." 🚀**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00F7FF,100:00FF88&height=120&section=footer"/>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
