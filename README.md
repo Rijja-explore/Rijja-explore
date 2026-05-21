@@ -1,5 +1,5 @@
 <!-- ===================================================== -->
-<!--                  🚀 RIJJA H PROFILE                   -->
+<!--                 🚀 RIJJA H PROFILE                    -->
 <!-- ===================================================== -->
 
 <div align="center">
@@ -14,11 +14,11 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Rijja-explore-github&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Rijja-explore&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Rijja-explore-github?style=for-the-badge&logo=github&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/Rijja-explore?style=for-the-badge&logo=github&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/stars/Rijja-explore-github?style=for-the-badge&logo=github&color=blueviolet"/>
+<img src="https://img.shields.io/github/stars/Rijja-explore?style=for-the-badge&logo=github&color=blueviolet"/>
 
 </div>
 
@@ -93,20 +93,16 @@ Fast execution, innovation under pressure, and real-world problem-solving.
 # 🏆 Hackathon Achievements
 
 🥇 **Track Winner** — Texus NXTGEN FinTrust Hackathon  
-
 🥉 **3rd Place (IIT Madras)** — Visa 24-Hour AI Hackathon  
-
 🏅 **4th Place (Grand Finalist)** — Citi Blockchain Hackathon 2025  
-
 🥈 **2nd Place** — CIVHACK 360  
-
 🔥 **Top 40 Teams** — THREX 48-Hour Hackathon  
 
 ---
 
 # 🎖️ Leadership & Community
 
-🚀 **IEEE Design Team Lead**  
+🚀 **IEEE SB SSN Vice Chair **  
 🔐 **SubHead – SecOps Cybersecurity (AIT)**  
 🌍 **Millennium Fellowship (Class of 2024)**  
 👥 Team Builder • Problem Solver • Fast Learner
@@ -117,9 +113,9 @@ Fast execution, innovation under pressure, and real-world problem-solving.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rijja-explore-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rijja-explore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Rijja-explore-github&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Rijja-explore&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -127,7 +123,7 @@ Fast execution, innovation under pressure, and real-world problem-solving.
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijja-explore-github&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijja-explore&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -137,7 +133,7 @@ Fast execution, innovation under pressure, and real-world problem-solving.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rijja-explore-github&theme=algolia&row=1&column=7&margin-w=10&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rijja-explore&theme=algolia&row=1&column=7&margin-w=10&no-frame=true"/>
 
 </div>
 
@@ -147,7 +143,7 @@ Fast execution, innovation under pressure, and real-world problem-solving.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rijja-explore-github&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rijja-explore&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -178,7 +174,7 @@ Open Source Collaboration
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Rijja-explore-github">
+<a href="https://github.com/Rijja-explore">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
