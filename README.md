@@ -15,9 +15,7 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Rijja-explore&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/Rijja-explore?style=for-the-badge&logo=github&color=blueviolet"/>
-
 <img src="https://img.shields.io/github/stars/Rijja-explore?style=for-the-badge&logo=github&color=blueviolet"/>
 
 </div>
@@ -113,9 +111,9 @@ Fast execution, innovation under pressure, and real-world problem-solving.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rijja-explore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rijja-explore&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Rijja-explore&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Rijja-explore&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -123,21 +121,9 @@ Fast execution, innovation under pressure, and real-world problem-solving.
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijja-explore&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijja-explore&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rijja-explore&theme=algolia&row=1&column=7&margin-w=10&no-frame=true"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
