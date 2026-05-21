@@ -88,35 +88,21 @@ Beyond hackathons, I actively contribute to technical communities through leader
 
 ---
 <!-- ===================================================== -->
-<!-- 📈 CONTRIBUTION ACTIVITY -->
-<!-- ===================================================== -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rijja-explore&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F778BA&area=true"
-  />
-</p>
-
-<br>
-
-<!-- ===================================================== -->
 <!-- 📊 GITHUB ANALYTICS -->
 <!-- ===================================================== -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Rijja-explore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
+<img
+height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rijja-explore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
 />
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijja-explore&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+<img
+height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rijja-explore&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 />
-
 </p>
 
 <br>
@@ -128,41 +114,54 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijja-explor
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Rijja-explore&theme=tokyonight&hide_border=true&background=0D1117"
-  />
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Rijja-explore&theme=tokyonight&hide_border=true"
+/>
 </p>
 
 <br>
 
 <!-- ===================================================== -->
-<!-- 🏆 GITHUB TROPHIES -->
+<!-- 📈 CONTRIBUTION GRAPH -->
+<!-- ===================================================== -->
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+<img
+width="95%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rijja-explore&theme=tokyonight"
+/>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- 🏆 TROPHIES -->
 <!-- ===================================================== -->
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
 <img
-src="https://github-profile-trophy.vercel.app/?username=Rijja-explore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+src="https://github-profile-trophy.vercel.app/?username=Rijja-explore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
 />
 </p>
 
 <br>
 
 <!-- ===================================================== -->
-<!-- 🐍 CONTRIBUTION SNAKE -->
+<!-- 👀 PROFILE VIEWS -->
 <!-- ===================================================== -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">👀 Profile Visitors</h2>
 
 <p align="center">
 <img
-src="https://raw.githubusercontent.com/Rijja-explore/Rijja-explore/output/github-contribution-grid-snake-dark.svg"
-alt="snake animation"
+src="https://komarev.com/ghpvc/?username=Rijja-explore&label=Profile%20Views&color=blueviolet&style=for-the-badge"
 />
 </p>
 
-<br>
 
 <!-- ===================================================== -->
 <!-- 👀 PROFILE VISITORS -->
