@@ -1,187 +1,164 @@
 <!-- ===================================================== -->
-<!--            🚀 RIJJA H - GITHUB PROFILE README 🚀      -->
-<!--     AI | Cybersecurity | Full-Stack | Innovator      -->
+<!--               🚀 RIJJA H GITHUB PROFILE               -->
 <!-- ===================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00F7FF,100:00FF88&height=220&section=header&text=Rijja%20H%20🚀&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=30" />
+<div align="center">
 
-# 👋 **RIJJA H**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00F7FF,100:00FF88&height=220&section=header&text=Rijja%20H&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-> 🤖 **AI & Cybersecurity Architect** | 🌐 **Full-Stack Engineer** | 🏆 **Hackathon Champion**
+# 👋 Hey, I'm Rijja H
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=900&color=00F7FF&vCenter=true&width=500&height=50&lines=Building+Intelligent+Systems;Architecting+Secure+Solutions;Scaling+Backend+Services;Innovating+with+AI;Winning+Hackathons" />
+### 🚀 AI Builder | 🔐 Cybersecurity Enthusiast | 🌐 Full-Stack Developer | 🏆 Hackathon Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Systems;Cybersecurity+%26+Secure+Architectures;Full-Stack+Developer;Hackathon+Builder+%26+Problem+Solver;Always+Learning+%F0%9F%9A%80"/>
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Rijja-explore-github&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)](https://github.com/Rijja-explore-github)
-&nbsp;
-[![Followers](https://img.shields.io/github/followers/Rijja-explore-github?style=flat-square&logo=github&color=blueviolet&label=FOLLOWERS)](https://github.com/Rijja-explore-github?tab=followers)
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/Rijja-explore-github?style=flat-square&logo=github&color=blueviolet&label=STARS)](https://github.com/Rijja-explore-github?tab=stars)
+<img src="https://komarev.com/ghpvc/?username=Rijja-explore-github&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90a8-b742f6a47e72.gif" width="100%">
+<img src="https://img.shields.io/github/followers/Rijja-explore-github?style=for-the-badge&logo=github&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/stars/Rijja-explore-github?style=for-the-badge&logo=github&color=blueviolet"/>
+
+</div>
 
 ---
 
-## 🌟 Who Am I?
+## 🌟 About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/SWoSkN6DxTszqKO6qv/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-**I'm a problem-solver who codes for impact.** Building intelligent systems that solve real problems at scale—from AI-powered apps to secure architectures, I bring ideas to life.
+🚀 Passionate about building **AI-powered, cybersecurity-focused, and scalable software systems**.
 
-### 🎯 **Track Record:**
+💡 I enjoy solving **real-world problems**, participating in **hackathons**, and building impactful tech solutions.
 
-🥇 **Track Winner** — Texus NXTGEN FinTrust Hackathon  
-🥉 **3rd Place** — Visa 24-Hour AI Hackathon (IIT Madras)  
-🏅 **4th Place (Grand Finalist)** — Citi Blockchain Hackathon 2025  
-🥈 **2nd Place** — CIVHACK 360  
-🔥 **Top 40/500+** — THREX 48-Hour Hackathon
+### 🎯 Areas of Interest
 
-### 💼 **Leadership:**
-- 🎖️ IEEE Design Team Lead
-- 🚀 SubHead – SecOps Cybersecurity (AIT)
-- 👥 Team builder | Mentor | Fast learner
+- 🤖 Artificial Intelligence & Intelligent Systems  
+- 🔐 Cybersecurity & Secure Architectures  
+- 🌐 Full-Stack Development  
+- ⚡ Backend & Scalable Systems  
+- ⛓️ Blockchain & FinTech  
 
-### 🔥 **I Build:**
-🤖 AI/ML systems & LLM integration  
-🛡️ Cybersecurity architecture  
-🌐 Scalable full-stack solutions  
-⛓️ Blockchain & FinTech products  
-⚙️ High-performance systems
+🏆 Strong believer in:
 
-> *"I code for impact, not just features. Every line moves the needle."*
+**Building → Learning → Iterating → Shipping**
 
 <br clear="right"/>
 
 ---
 
-# 🚀 What I Build
+# 🚀 What You'll Find Here
 
-<img align="left" alt="Rocket" width="280" src="https://media.giphy.com/media/xTiTnLuHV8ZrXDz9Ow/giphy.gif" />
+💡 I actively build and experiment with:
 
-### 🤖 **AI Solutions**
-Intelligent applications, predictive models, smart automation, ML pipelines, LLM integration
+### 🤖 AI Systems
+Smart automation, intelligent applications, predictive systems, and AI-powered products.
 
-### 🛡️ **Cybersecurity**
-Secure architecture, threat detection, vulnerability analysis, security hardening, zero-trust models
+### 🔐 Cybersecurity
+Secure systems, monitoring, automation, and practical security solutions.
 
-### 🌐 **Full-Stack Apps**
-Scalable web apps, real-time dashboards, microservices, backend systems, cloud-native apps
+### 🌐 Full-Stack Development
+Scalable web applications, dashboards, APIs, and real-time systems.
 
-<br clear="left" />
+### ⚡ Hackathon MVPs
+Fast execution, innovation under pressure, and real-world problem-solving.
+
+🔍 **Explore my repositories to see what I’m currently building.**
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 **Languages**
-<img align="left" width="400" src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,sql,cpp,c&perline=9&theme=dark" />
+### 👨‍💻 Languages
 
-<br clear="left" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql,c&theme=dark" />
+</p>
 
-### 🚀 **Frameworks & Databases**
-<img align="right" width="400" src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,django,firebase,postgresql,mongodb,docker&perline=9&theme=dark" />
+### 🚀 Frameworks & Technologies
 
-<br clear="right" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,firebase,fastapi,git,github,docker,unity&theme=dark" />
+</p>
 
-### ⚙️ **DevOps & Cloud**
-<img align="left" width="400" src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,gcp,github,git,ci,jenkins&perline=9&theme=dark" />
+### ⚙️ Tools
 
-<br clear="left" />
-
-### 🧠 **AI/ML Stack**
-<img align="right" width="350" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter,opencv&perline=7&theme=dark" />
-
-<br clear="right" />
-
-### 🔧 **Tools**
-<img align="left" width="350" src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github,linux,vim&perline=7&theme=dark" />
-
-<br clear="left" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux,figma&theme=dark" />
+</p>
 
 ---
 
-# 🏆 Hackathon Wins
+# 🏆 Hackathon Achievements
 
-🥇 **Track Winner** — Texus NXTGEN FinTrust Hackathon | FinTech Innovation  
-🥉 **3rd Place** — Visa 24-Hour AI Hackathon | IIT Madras | AI Excellence  
-🏅 **4th Place (Grand Finalist)** — Citi Blockchain Hackathon 2025 | Blockchain & FinTech  
-🥈 **2nd Place** — CIVHACK 360 | Civic Tech Innovation  
-🔥 **Top 40 Teams** — THREX 48-Hour Hackathon | Out of 500+ participants
+🥇 **Track Winner** — Texus NXTGEN FinTrust Hackathon  
 
-**What This Means:**
-✅ MVPs built in 24-48 hours  
-✅ Team leadership & fast execution  
-✅ Innovation under pressure  
-✅ Real-world problem solving  
-✅ Proven delivery & impact
+🥉 **3rd Place (IIT Madras)** — Visa 24-Hour AI Hackathon  
+
+🏅 **4th Place (Grand Finalist)** — Citi Blockchain Hackathon 2025  
+
+🥈 **2nd Place** — CIVHACK 360  
+
+🔥 **Top 40 Teams** — THREX 48-Hour Hackathon  
 
 ---
 
-# 🌱 Always Learning
+# 🎖️ Leadership & Community
 
-<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
-
-**🔬 Artificial Intelligence**  
-Large Language Models • RAG Systems • Generative AI • Computer Vision • NLP
-
-**🛡️ Cybersecurity**  
-Advanced Threat Detection • Zero-Trust Architecture • Cloud Security • Incident Response
-
-**⚙️ System Design**  
-High-Scale Architectures • Distributed Systems • Real-time Processing • Database Optimization
-
-**🌐 Backend & Cloud**  
-Microservices • Event-Driven Architecture • Container Orchestration • Cloud-Native Development
-
-<br clear="right" />
+🚀 **IEEE Design Team Lead**  
+🔐 **SubHead – SecOps Cybersecurity (AIT)**  
+🌍 **Millennium Fellowship (Class of 2024)**  
+👥 Team Builder • Problem Solver • Fast Learner
 
 ---
 
----
+# 📊 GitHub Analytics
 
-# 🌐 Let's Connect
+<div align="center">
 
-**💼 LinkedIn:** [linkedin.com/in/rijja-h](https://www.linkedin.com/in/rijja-h/)  
-**📧 Email:** [rijjahakkim@gmail.com](mailto:rijjahakkim@gmail.com)  
-**🐙 GitHub:** [github.com/Rijja-explore-github](https://github.com/Rijja-explore-github)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rijja-explore-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
----
+<img width="49%" src="https://streak-stats.demolab.com?user=Rijja-explore-github&theme=tokyonight&hide_border=true"/>
 
-# 🎯 Featured Projects
+</div>
 
-<img align="left" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<br>
 
-**6 Pinned Repos You Should Check Out:**
+<div align="center">
 
-🌟 **EcoFi** — AI Financial Platform  
-🌟 **HeritageAI** — Heritage Preservation  
-🌟 **SkillPath AI** — Learning Platform  
-🌟 **NetGenius** — Network Analysis  
-🌟 **Weather Forecasting AI** — ML Prediction  
-🌟 **Cybersecurity Suite** — Security Tools
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijja-explore-github&layout=compact&theme=tokyonight&hide_border=true"/>
 
-> ⭐ **Star the projects you love!**
-
-<br clear="left" />
+</div>
 
 ---
 
-# 💡 Core Philosophy
+# 🏅 GitHub Trophies
 
-> *"Excellence is not a destination—it's a commitment to every single line of code."*
+<div align="center">
 
-**I Believe In:**
+<img src="https://github-profile-trophy.vercel.app/?username=Rijja-explore-github&theme=algolia&row=1&column=7&margin-w=10&no-frame=true"/>
 
-✨ **Excellence** — Writing clean, maintainable code that lasts  
-🤝 **Collaboration** — Building strong teams over individual heroics  
-📚 **Learning** — Staying ahead of tech trends, always growing  
-🚀 **Shipping** — Move fast, iterate, deliver value quickly  
-💡 **Innovation** — Solving real problems with creative solutions  
-🔥 **Impact** — Focus on quality over quantity, results over busy work
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00F7FF,100:00FF88&height=150&section=footer&text=Keep%20Building%20🚀&fontSize=40&fontColor=fff&animation=fadeIn"/>
+# 📈 Contribution Graph
 
-**Made with ❤️ by Rijja H** | *Inspired by AI • Secured by Code • Powered by Innovation*
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rijja-explore-github&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+```yaml
+Artificial Intelligence
+Cybersecurity
+System Design
+Scalable Backend Development
+Cloud & DevOps
+Open Source Collaboration
